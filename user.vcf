@@ -7,7 +7,7 @@ ORG:Synapse;
 TITLE:Founder
 EMAIL;type=INTERNET;type=WORK;type=pref:homaro@synapsefuture.com
 TEL;type=WORK;type=VOICE:+55 11 97600 0863
-item1.ADR;type=WORK;type=pref:;;Al Vicente Pinzon 54;;;Vila Olimpia;São Paulo
+item1.ADR;type=WORK;type=pref:;;Rua Gomes de Carvalho 911;;;Vila Olimpia;São Paulo
 item1.X-ABADR:sg
 item2.URL;type=pref:synapsefuture.com
 item2.X-ABLabel:_$!<HomePage>!$_
